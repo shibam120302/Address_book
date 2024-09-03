@@ -1,4 +1,4 @@
-.# Address Book Application.
+# Address Book Application.
 This is a Java application that can store and manage contact information such as names, addresses, phone numbers, and emails.
 
 ## Features
